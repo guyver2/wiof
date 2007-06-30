@@ -1,0 +1,36 @@
+exemple de fichier definissant un niveau
+ici c'est celui du niveau de l'imeuble
+le fichier DOIT commencer par le nb de perso a sauver et DOIT finir par une ligne vide
+
+//------------------- debut
+20 -- nb a sauver
+5 -- nb de mort max
+100 -- hp des perso
+40 -- hp des feux
+110 -- hauteur du pompier
+2 -- vent (peut etre negatif)
+0.32 -- gravité (peut etre negatif)
+170 62 -- position du nb de persos sauvés
+170 175 -- position du nb de persos morts
+13 -- nb de fenetres
+249 30 -- position 
+251 149
+252 226
+287 70
+287 187
+324 31
+324 110
+324 225
+360 70
+361 224
+431 33
+431 109
+431 186
+datas/immeuble/perso.png -- perso
+datas/immeuble/perso_echelle.png -- sur l'echelle
+datas/immeuble/angel.png -- ange
+datas/immeuble/fond.png -- fond
+datas/immeuble/immeuble.png -- façade
+datas/immeuble/help.png
+datas/immeuble/thanx.png
+datas/immeuble/safe.png
